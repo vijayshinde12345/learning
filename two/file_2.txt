@@ -1,2 +1,4 @@
 this is second file created in project
-edited in staging branch 
+edited1 in master branch
+edited in staging branch
+edited2 in master branch
